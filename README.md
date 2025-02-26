@@ -8,11 +8,10 @@ efficiency - it helps to optimize developer workflow while maintaining high qual
  scalability and flexibility - it ensures that the system can handle an increased load without affecting performance.
  security - implement protection practice like authentication, authorization and encryption to secure users information. Identify and describe at least three key milestones in the evolution of software engineering.
 
-
 Identify and describe at least three key milestones in the evolution of software engineering.
-.mastering complexity
-Mastering process
-Mastering machine
+Mastering Complexity involves understanding and managing intricate systems or problems by breaking them down into simpler, manageable parts.
+Mastering Process focuses on optimizing and refining methods to achieve consistent, efficient outcomes by following clear, repeatable steps.
+Mastering Machine refers to effectively using and optimizing machines or technology, such as automation or AI, to improve performance and efficiency.
 
 List and briefly explain the phases of the Software Development Life Cycle.
  planning - identify the software requirement or purpose and scope.
@@ -42,19 +41,18 @@ Software Developer - developing applications,programs and systems using programm
  - maintaining and updating software to keep it functional. 
 - collaborating with other team members to ensure best practice when developing software.
  - reporting to the project manager about the progress of the software development.
-Quality Assurance Engineer - collaborate with stakeholders to understand and clarify software requirement.
+Quality Assurance Engineer
+- collaborate with stakeholders to understand and clarify software requirement.
  - create development standards and procedures for the programmers to follow
  - confirm that the software meets the requirement before deployment. 
 - analyse the product to identify bugs and suggest changes to make them more efficient. 
 - develop and execute automation scripts using open source tools.
-Project Manager - assembles and lead the software development team.
+Project Manager
+- assembles and lead the software development team.
  - discuss the project and it's requirement with the client and software developers.
  - create blueprint for the project.
  - tracking and communicating information regarding the project milestone.
  - deliver the complete software to the client and regularly check its performance.
-
-
-
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 An integrated development environment (IDE) is a software platform that facilitates the creation of other software applications by providing a space to write, compile, and debug code, sometimes with value-adding tools that reduce development efforts. eg Visual Studio Code (VSCode)
@@ -89,10 +87,6 @@ Solution: research ways to defend against hacking, malware, phishing, insider an
 Software Accessibility and Usability - Overly complex software can frustrate or confuse users. 
 Solution: Use scalable architecture, Emphasize reliability.
 
-
-
-
-
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 Unit tests - are close to the source of an application, They consist in testing individual methods and functions of the classes, components, or modules used by your software. - it ensures that each unit performs its intended function correctly, isolated from other components.
  Integration tests - verify that different modules or services used by your application work well together.
@@ -105,10 +99,6 @@ Draw a full-body portrait of a young woman with long brown hair, wearing a red j
 Clarity: The improved prompt specifies what is being asked (a full-body portrait) rather than just a "person.
 Specific Details: Describing the woman's appearance (long brown hair, red jacket, blue jeans) and the setting (park, sunny day, trees, grass) gives clear guidance on the image to be created.
 Concise: The additional details provide a clear picture without being overly complicated, making it easier for the artist to understand exactly what is needed.
-
-
-
-
 
 Define prompt engineering and discuss its importance in interacting with AI models.
 
